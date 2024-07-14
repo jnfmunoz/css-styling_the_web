@@ -1,0 +1,48 @@
+h1 {
+    color: red;
+}
+  
+p, li {
+    color: green;
+}
+
+li {
+    list-style-type: square; /* none, square */
+}
+
+li.special,
+span.special {
+    color: orange;
+    font-weight: bold;
+}
+  
+/* dar formato según la ubicación en un documento */
+li em {
+    color: rebeccapurple;
+}
+  
+/*  dar formato un párrafo que venga directamente a continuación 
+    de un título que esté en el mismo nivel de jerarquía en el HTML.  */
+h1 + p {
+    font-size: 200%;
+}
+
+/* dar formato según el estado */
+a:link {
+    color: pink;
+}
+  
+a:visited {
+    color: green;
+}
+
+a:hover {
+    text-decoration: none;
+}  
+
+/* Combinaciones de selectores y combinadores */
+body h1 + p .special {
+    color: yellow;
+    background-color: black;
+    padding: 5px;
+}
