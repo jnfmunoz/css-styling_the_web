@@ -1,8 +1,6 @@
-first-steps/getting-started
-first-steps/how-css-is-structured/applying-css-to-html
-first-steps/how-css-is-structured/css-functions/calc-function
-first-steps/how-css-is-structured/css-functions/transform-rotate-function
-
-
-
-https://developer.mozilla.org/es/docs/Web/CSS/transform
+first-steps/getting-started/
+first-steps/how-css-is-structured/applying-css-to-html/
+first-steps/how-css-is-structured/css-functions/calc-function/
+first-steps/how-css-is-structured/css-functions/transform-rotate-function/
+first-steps/how-css-is-structured/css-functions/css-rules/
+first-steps/how-css-works/
