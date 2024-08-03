@@ -1,0 +1,50 @@
+/* selectores que delimitan un elemento HTML */
+h1{
+    color: blue;
+    font-size: 2em;
+}
+
+/* selectores que delimitan una clase */
+.box{
+    background-color: lightgray;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+/* selectores que delimitan un id */
+#unique {
+    background-color: yellow;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+/* selectores de atributo */
+/* seleccionar elementos según la presencia de un atributo determinado en un elemento */
+a[title] {
+    color: red;
+    text-decoration: underline;
+}
+
+/* selección basada en la presencia de un atributo que tiene un valor particular asignado */
+a[href="https://example.com"]{  
+    font-weight: bold;
+}
+
+/* pseudoclases, que aplican estilo a ciertos estados de un elemento. */
+a:hover {
+    color: green;
+    text-decoration: none;
+}
+
+/* pseudoelementos, que seleccionan una parte determinada de un elemento 
+*  en vez del elemento en sí. */
+p::first-line {
+    font-weight: bold;
+    color: orange;
+}
+
+/* combina otros selectores con el fin de delimitar elementos de nuestros documentos. */
+article > p {
+    margin-left: 20px;
+    font-style: italic;
+}

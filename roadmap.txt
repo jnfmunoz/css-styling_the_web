@@ -3,5 +3,15 @@ first-steps/how-css-is-structured/applying-css-to-html/
 first-steps/how-css-is-structured/css-functions/calc-function/
 first-steps/how-css-is-structured/css-functions/transform-rotate-function/
 first-steps/how-css-is-structured/css-functions/css-rules/
+first-steps/how-css-works/
 first-steps/styling-a-biography-page/
-building-blocks/
+building-blocks/selectors/selectors/
+building-blocks/selectors/type-of-selectors/
+building-blocks/type-class-and-id-selectors/type-selectors/
+building-blocks/type-class-and-id-selectors/universal-selector/universal-selector
+building-blocks/type-class-and-id-selectors/universal-selector/using-the-universal-selector-to-make-your-selectors-easier-to-read
+building-blocks/type-class-and-id-selectors/class-selectors/class-selectors/
+building-blocks/type-class-and-id-selectors/class-selectors/targeting-clases-on-particular-elements/
+building-blocks/type-class-and-id-selectors/class-selectors/target-an-element-if-it-has-more-than-one-class-applied/
+building-blocks/type-class-and-id-selectors/id-selectors/
+building-blocks/attribute-selectors/presence-and-value-selectors/ -> https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors

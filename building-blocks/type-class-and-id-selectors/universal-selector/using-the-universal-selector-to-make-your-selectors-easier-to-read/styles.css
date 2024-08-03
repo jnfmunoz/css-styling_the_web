@@ -1,0 +1,5 @@
+/* Selector universal combinado con :first-child dentro de un <article> */
+article *:first-child {
+  color: red;
+  font-weight: bold;
+}
