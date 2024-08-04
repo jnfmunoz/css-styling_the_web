@@ -1,11 +1,14 @@
+/* a[title] */
 li[class] {
     font-size: 200%;
 }
-  
+
+/* [attr=value] */
 li[class="a"] {
     background-color: yellow;
 }
-  
-  li[class~="a"] {
+
+/* [attr~=value] */  
+li[class~="a"] {
     color: red;
 }

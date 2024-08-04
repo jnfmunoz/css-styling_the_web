@@ -14,4 +14,7 @@ building-blocks/type-class-and-id-selectors/class-selectors/class-selectors/
 building-blocks/type-class-and-id-selectors/class-selectors/targeting-clases-on-particular-elements/
 building-blocks/type-class-and-id-selectors/class-selectors/target-an-element-if-it-has-more-than-one-class-applied/
 building-blocks/type-class-and-id-selectors/id-selectors/
-building-blocks/attribute-selectors/presence-and-value-selectors/ -> https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors
+building-blocks/attribute-selectors/presence-and-value-selectors/
+building-blocks/attribute-selectors/substring-matching-selectors/
+
+https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors

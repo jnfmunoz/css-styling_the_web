@@ -1,0 +1,20 @@
+/*  [attr^=value] 
+    li[class^="a"] => relaciona cualquier valor de atributo que empieza con a; luego, 
+    relaciona los dos primeros elementos de la lista se verán iguales.*/
+li[class^="a"] {
+    font-size: 200%;
+}
+  
+/*  [attr$=value] 
+    li[class$="a"] => relaciona cualquier valor de atributo que termina con a; luego, relaciona 
+    el primer y el tercer elemento de la lista. */
+li[class$="a"] {
+    background-color: yellow;
+}
+  
+/*  [attr*= ]
+    li[class*="a"] relaciona cualquier valor de atributo que contiene a en cualquier posición; 
+    luego, relaciona todos los elementos de la lista. */
+li[class*="a"] {
+    color: red;
+}
