@@ -1,14 +1,22 @@
-/* a[title] */
+/* a[title]
+   Mediante el uso de li[class] podemos relacionar cualquier selector 
+   con un atributo de clase. Los relaciona todos menos el primer elemento de la lista. */
 li[class] {
     font-size: 200%;
 }
 
-/* [attr=value] */
+/* [attr=value] 
+   li[class="a"] relaciona un selector con una clase de a, pero no un selector con una 
+   clase de a con otra clase separada por un espacio como parte del valor. Selecciona el 
+   segundo elemento de la lista. */
 li[class="a"] {
     background-color: yellow;
 }
 
-/* [attr~=value] */  
+/* [attr~=value] 
+   li[class~="a"] coincidirá con una clase a pero también con un valor que contenga la clase 
+   de a como parte de una lista de elementos separados por un espacio. Selecciona el segundo 
+   y el tercer elemento de la lista. */  
 li[class~="a"] {
     color: red;
 }

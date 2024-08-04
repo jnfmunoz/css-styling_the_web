@@ -16,5 +16,7 @@ building-blocks/type-class-and-id-selectors/class-selectors/target-an-element-if
 building-blocks/type-class-and-id-selectors/id-selectors/
 building-blocks/attribute-selectors/presence-and-value-selectors/
 building-blocks/attribute-selectors/substring-matching-selectors/
+building-blocks/attribute-selectors/case-insensitivity/
+building-blocks/pseudo-classes-and-pseudo-elements/
 
-https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements
