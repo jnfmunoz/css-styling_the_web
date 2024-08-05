@@ -14,9 +14,16 @@
 02-building-blocks/02-type-class-and-id-selectors/03-class-selectors/02-targeting-clases-on-particular-elements/
 02-building-blocks/02-type-class-and-id-selectors/03-class-selectors/03-target-an-element-if-it-has-more-than-one-class-applied/
 02-building-blocks/02-type-class-and-id-selectors/04-id-selectors/
-02-building-blocks/03-attribute-selectors/presence-and-value-selectors/
-02-building-blocks/03-attribute-selectors/substring-matching-selectors/
-02-building-blocks/03-attribute-selectors/case-insensitivity/
+02-building-blocks/03-attribute-selectors/01-presence-and-value-selectors/
+02-building-blocks/03-attribute-selectors/02-substring-matching-selectors/
+02-building-blocks/03-attribute-selectors/03-case-insensitivity/
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-simple-pseudo-class-example/01-first-child
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-simple-pseudo-class-example/02-last-child/01-basic-example
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-simple-pseudo-class-example/02-last-child/02-styling-a-list
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-simple-pseudo-class-example/03-only-child/01-basic-example
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-simple-pseudo-class-example/03-only-child/02-a-list-example
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-simple-pseudo-class-example/04-invalid/
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/02-user-action-pseudo-classes/
 
-**02-building-blocks/pseudo-classes-and-pseudo-elements/
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements#user-action_pseudo_classes
