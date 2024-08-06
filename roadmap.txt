@@ -5,11 +5,11 @@
 01-first-steps/02-how-css-is-structured/02-css-functions/03-css-rules/
 01-first-steps/03-how-css-works/
 01-first-steps/04-styling-a-biography-page/
-02-building-blocks/01-selectors/selectors/
-02-building-blocks/01-selectors/type-of-selectors/
+02-building-blocks/01-selectors/01-selectors/
+02-building-blocks/01-selectors/02-type-of-selectors/
 02-building-blocks/02-type-class-and-id-selectors/01-type-selectors/
-02-building-blocks/02-type-class-and-id-selectors/02-universal-selector/01-universal-selector
-02-building-blocks/02-type-class-and-id-selectors/02-universal-selector/02-using-the-universal-selector-to-make-your-selectors-easier-to-read
+02-building-blocks/02-type-class-and-id-selectors/02-universal-selector/01-universal-selector/
+02-building-blocks/02-type-class-and-id-selectors/02-universal-selector/02-using-the-universal-selector-to-make-your-selectors-easier-to-read/
 02-building-blocks/02-type-class-and-id-selectors/03-class-selectors/01-class-selectors/
 02-building-blocks/02-type-class-and-id-selectors/03-class-selectors/02-targeting-clases-on-particular-elements/
 02-building-blocks/02-type-class-and-id-selectors/03-class-selectors/03-target-an-element-if-it-has-more-than-one-class-applied/
@@ -17,13 +17,17 @@
 02-building-blocks/03-attribute-selectors/01-presence-and-value-selectors/
 02-building-blocks/03-attribute-selectors/02-substring-matching-selectors/
 02-building-blocks/03-attribute-selectors/03-case-insensitivity/
-02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-simple-pseudo-class-example/01-first-child
-02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-simple-pseudo-class-example/02-last-child/01-basic-example
-02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-simple-pseudo-class-example/02-last-child/02-styling-a-list
-02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-simple-pseudo-class-example/03-only-child/01-basic-example
-02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-simple-pseudo-class-example/03-only-child/02-a-list-example
-02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-simple-pseudo-class-example/04-invalid/
-02-building-blocks/04-pseudo-classes-and-pseudo-elements/02-user-action-pseudo-classes/
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-pseudo-class/01-simple-pseudo-class-example/01-first-child/
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-pseudo-class/01-simple-pseudo-class-example/02-last-child/01-basic-example/
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-pseudo-class/01-simple-pseudo-class-example/02-last-child/02-styling-a-list/
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-pseudo-class/01-simple-pseudo-class-example/03-only-child/01-basic-example/
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-pseudo-class/01-simple-pseudo-class-example/03-only-child/02-a-list-example/
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-pseudo-class/01-simple-pseudo-class-example/04-invalid/
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-pseudo-class/02-user-action-pseudo-classes/01-hover/
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/01-pseudo-class/02-user-action-pseudo-classes/02-focus/
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/02-pseudo-element/
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/03-combining-pseudo-classes-and-pseudo-elements/
+02-building-blocks/04-pseudo-classes-and-pseudo-elements/04-generating-content-with-before-and-after/
 
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements#user-action_pseudo_classes
