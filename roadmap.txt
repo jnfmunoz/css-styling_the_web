@@ -28,6 +28,11 @@
 02-building-blocks/04-pseudo-classes-and-pseudo-elements/02-pseudo-element/
 02-building-blocks/04-pseudo-classes-and-pseudo-elements/03-combining-pseudo-classes-and-pseudo-elements/
 02-building-blocks/04-pseudo-classes-and-pseudo-elements/04-generating-content-with-before-and-after/
+02-building-blocks/05-combinators/01-descendant-combinator/
+02-building-blocks/05-combinators/02-child-combinator/
+02-building-blocks/05-combinators/03-next-sibling-combinator/
+02-building-blocks/05-combinators/04-subsequent-sibling-combinator/
+02-building-blocks/05-combinators/05-creating-complex-selectors-with-nesting/
+02-building-blocks/06-cascade-and-inheritance/
 
-
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements#user-action_pseudo_classes
+https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance/
