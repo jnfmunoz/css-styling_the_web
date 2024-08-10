@@ -33,6 +33,17 @@
 02-building-blocks/05-combinators/03-next-sibling-combinator/
 02-building-blocks/05-combinators/04-subsequent-sibling-combinator/
 02-building-blocks/05-combinators/05-creating-complex-selectors-with-nesting/
-02-building-blocks/06-cascade-and-inheritance/
+02-building-blocks/06-cascade-and-inheritance/01-cascade/
+02-building-blocks/06-cascade-and-inheritance/02-specificity/
+02-building-blocks/06-cascade-and-inheritance/03-inheritance/
+02-building-blocks/06-cascade-and-inheritance/04-understanding-inheritance/
+02-building-blocks/06-cascade-and-inheritance/05-controlling-inheritance/01-inherit/
+02-building-blocks/06-cascade-and-inheritance/05-controlling-inheritance/02-initial/
+02-building-blocks/06-cascade-and-inheritance/05-controlling-inheritance/03-revert/01-revert/
+02-building-blocks/06-cascade-and-inheritance/05-controlling-inheritance/03-revert/02-revert-vs-unset/
+02-building-blocks/06-cascade-and-inheritance/05-controlling-inheritance/03-revert/03-revert-all/
+02-building-blocks/06-cascade-and-inheritance/05-controlling-inheritance/03-revert/04-revert-on-a-parent/
 
-https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance/
+
+
+https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance#control_de_la_herencia

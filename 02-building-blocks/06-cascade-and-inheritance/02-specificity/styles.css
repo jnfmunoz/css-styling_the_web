@@ -1,0 +1,8 @@
+/* selector de clase > selector de elemento */
+.main-heading {
+    color: red;
+  }
+  
+h1 {
+    color: blue;
+  }

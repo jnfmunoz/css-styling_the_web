@@ -1,0 +1,18 @@
+/* Estilos del contenedor */
+.default-styles {
+    color: blue;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilos de los elementos hijos */
+.child {
+    color: red; /* Sobrescribe el color azul del contenedor */
+    font-family: 'Times New Roman', serif; /* Sobrescribe la fuente del contenedor */
+}
+
+/* Estilos de un elemento hijo que revierte los cambios */
+.child-revert {
+    color: revert; /* Revertirá al valor del navegador o a las reglas del usuario-agente (verde) */
+    font-family: revert; /* Revertirá al valor del navegador o a las reglas del usuario-agente ('Courier New') */
+    font-size: 16px; /* Valor especificado */
+}

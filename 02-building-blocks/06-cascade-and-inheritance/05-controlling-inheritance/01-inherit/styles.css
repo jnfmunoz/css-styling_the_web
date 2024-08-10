@@ -1,0 +1,10 @@
+.parent {
+    color: blue;
+    font-family: Arial, sans-serif;
+}
+
+.child {
+    font-family: inherit; /* Hereda el valor de font-family del elemento padre */
+    color: inherit; /* Hereda el valor de color del elemento padre */
+    font-size: 16px; /* Valor especificado */
+}
