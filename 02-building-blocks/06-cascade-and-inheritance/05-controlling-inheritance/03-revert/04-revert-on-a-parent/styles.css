@@ -1,0 +1,13 @@
+main {
+    color: steelblue;
+}
+section {
+    color: darkgreen;
+}
+p {
+    color: red;
+}
+section.with-revert {
+    color: revert;
+}
+  

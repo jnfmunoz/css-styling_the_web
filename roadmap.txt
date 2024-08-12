@@ -43,7 +43,9 @@
 02-building-blocks/06-cascade-and-inheritance/05-controlling-inheritance/03-revert/02-revert-vs-unset/
 02-building-blocks/06-cascade-and-inheritance/05-controlling-inheritance/03-revert/03-revert-all/
 02-building-blocks/06-cascade-and-inheritance/05-controlling-inheritance/03-revert/04-revert-on-a-parent/
+02-building-blocks/06-cascade-and-inheritance/05-controlling-inheritance/04-revert-layer/01-default-cascade-layer-behavior/
 
 
 
-https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance#control_de_la_herencia
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance#controlling_inheritance
+https://developer.mozilla.org/en-US/docs/Web/CSS/revert#revert_on_a_parent
